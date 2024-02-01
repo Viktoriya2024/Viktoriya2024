@@ -1,5 +1,5 @@
 # Name
-- Viktoriy
+- Viktoriya
 *** 
 # Surname
 - Dubynchuk
@@ -16,7 +16,4 @@
 ### A list of my favourite restaurains
 - I like french kitchen
 - And also asiatish
-***# Viktoriya2024
-# Viktoriya2024
-# Viktoriya2024
-# info
+*** 
